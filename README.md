@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @secretbehindnate
 - 👀 I’m interested in coding, gayming, music, ur mom (@tay)
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ur mom
+- 💞️ I’m looking to collaborate on ur mom (@tay)
 - 📫 How to reach me discord @thisisnate_
 
 <!---
